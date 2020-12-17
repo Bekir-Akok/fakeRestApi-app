@@ -1,3 +1,17 @@
+# Neler Kullandım /Öğrendim ?
+
+## Fake rest api ve React Router kullanarak kendi film listelerinizi oluşturabileceğiniz bir single page app örneği.
+
+### Uygulamadan fake apideki bilgileri silebilir güncelleyebilir ve yenileri ekleyebilirsiniz.
+
+#### -Temel ve ileri seviye React konuları/konseptleri
+#### -Axios
+#### -Json-server -- Fake Rest Apı
+#### -React Router
+
+##### Kaynak https://www.youtube.com/watch?v=jig4GPO7OTo&list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
