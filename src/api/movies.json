@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "name": "Lucifer",
+      "rating": 8.3,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sBx2Ew4WFsa1YY32vlHt079O03.jpg",
+      "id": 1
+    },
+    {
+      "name": "Vikigns",
+      "rating": 6.8,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+      "id": 2
+    },
+    {
+      "name": "The Crown",
+      "rating": 7.9,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT4HL776Up8LgjqfmmGtGKSDgvT.jpg",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "name": "Intersteller",
+      "rating": 6.8,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "//image.tmdb.org/t/p/w600_and_h900_bestv2/y1TKElkgWOl90iFik3GHlgJdphm.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Arrow",
+      "rating": 7.9,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "//image.tmdb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Fathers&Daughters",
+      "rating": 7.1,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJBqmha8rmvpuRn7iwri6WY1Axb.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Red Dawn",
+      "rating": 5.6,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHdxKDX36NOEYE2NyAyP7ThuAcm.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Alpha And Omega",
+      "rating": 5.5,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YVyH5sS6kLQRsSDF5dhhR0BWeh.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Texas Chaınsaw",
+      "rating": 5.4,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwIQ7WDCSiIcNdbferTcU7uI0KV.jpg"
+    },
+    {
+      "id": 11,
+      "name": "USS Indıanapolıs",
+      "rating": 7.9,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oDfLXhXah2D2s1MGy3reVgwzzw.jpg"
+    },
+    {
+      "name": "Knock Knock",
+      "rating": 5.2,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUC4rUb1Cs2KMaZ6RD4uYUEEwls.jpg",
+      "id": 12
+    },
+    {
+      "name": "Saw IV",
+      "rating": 6.5,
+      "overview": "This is a wider card with supporting text bellow as a natural lead-in to additional content",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fFI57FuE9X4pUCIiKZZZCB7caK.jpg",
+      "id": 13
+    }
+  ]
+}
