@@ -8,6 +8,7 @@
 #### -Axios
 #### -Json-server -- Fake Rest Apı
 #### -React Router
+#### -Form Serialize
 
 ##### Kaynak https://www.youtube.com/watch?v=jig4GPO7OTo&list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy
 
